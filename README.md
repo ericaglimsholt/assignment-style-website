@@ -27,8 +27,15 @@ So now it's time for you to start programming! You decide yourself on how much y
 You can do everything (more or less) in CSS and HTML. I've created some list for you to look at if you find it hard to know where to begin.
 
 ### The requirements
-Here is some links that will help you to reach the requirements.
 * [Change h1 text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 * [Change background color](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
 * [Change font](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
 * [Add image](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+
+### CSS
+* [Change font color](https://www.w3schools.com/csSref/pr_text_color.asp)
+* [Import Google Fonts to your project](https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/)
+* [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Margins](https://www.w3schools.com/csSref/pr_margin.asp)
+* [Padding](https://www.w3schools.com/csSref/pr_padding.asp)
+* [Style a class or id](https://www.htmldog.com/guides/css/intermediate/classid/)
