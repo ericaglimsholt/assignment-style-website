@@ -23,7 +23,10 @@ So now it's time for you to start programming! You decide yourself on how much y
 * Change the font on your page.
 * Insert at least one image of your own choosing.
 
-### Help links
+## Help
+You can do everything (more or less) in CSS and HTML. I've created some list for you to look at if you find it hard to know where to begin.
+
+### The requirements
 Here is some links that will help you to reach the requirements.
 * [Change h1 text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
 * [Change background color](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
