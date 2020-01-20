@@ -1,5 +1,5 @@
 # Assignment - style your own website
-This is an assignment for the course "digital techniques and production". You are given a easy template of a webpage. Your assignment is to change the CSS to make it as beautiful as you want! Now, CSS isn't always easy even if it feels like it. You are more than welcome to ask each others and Google things you want to do. Add `CSS` to every search you do to make it easy. Copy and paste. That's how we roll. Really.
+This is an assignment for the course "digital techniques and production". You are given a easy template of a webpage. Your assignment is to change the CSS to make it as beautiful as you want! Now, CSS isn't always easy even if it feels like it. You are more than welcome to ask each others and Google things you want to do. Add `CSS` to every search you do to make it easy for example "css change background color". Copy and paste. That's how we roll. Really.
 
 <img src="https://media.giphy.com/media/13XW2MJE0XCoM0/giphy.gif" width="850" height="auto" />
 
