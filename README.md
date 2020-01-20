@@ -14,3 +14,11 @@ This is an assignment for the course "digital techniques and production". You ar
 8. Change "Your title" in the `<h1>` element to something else (it can be whatever you want).
 9. Save the file.
 10. In your browser - update the page. You should now see your change.
+
+## Requirements
+So now it's time for you to start programming! You decide yourself on how much you want to change. We don't have this assignment to make you programmers - it's for you to understand what programming is. But we need to have some requirements. Here they are.
+
+* Change the text inside `<h1></h1>` to a fitting title for your page.
+* Change the background color on your page.
+* Change the font on your page.
+* Insert at least one image of your own choosing.
