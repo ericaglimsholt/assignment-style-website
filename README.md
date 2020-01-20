@@ -1,7 +1,7 @@
 # Assignment - style your own website
 This is an assignment for the course "digital techniques and production".
 
-[CSS is a struggle](https://media.giphy.com/media/13XW2MJE0XCoM0/giphy.gif)
+![CSS is a struggle](https://media.giphy.com/media/13XW2MJE0XCoM0/giphy.gif)
 
 ## Setting up the project
 1. Download this repository as a zip-file to your computer.
