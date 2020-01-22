@@ -33,9 +33,26 @@ So now it's time for you to start programming! You decide yourself on how much y
 You can do everything (more or less) in CSS and HTML. I've created some list for you to look at if you find it hard to know where to begin.
 
 ### CSS
-* [Change font color](https://www.w3schools.com/csSref/pr_text_color.asp)
-* [Import Google Fonts to your project](https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/)
+* [Text color](https://www.w3schools.com/csSref/pr_text_color.asp)
 * [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Margins](https://www.w3schools.com/csSref/pr_margin.asp)
 * [Padding](https://www.w3schools.com/csSref/pr_padding.asp)
 * [Style a class or id](https://www.htmldog.com/guides/css/intermediate/classid/)
+* [Hover](https://www.w3schools.com/cssref/sel_hover.asp)
+* [Background image](https://www.w3schools.com/cssref/pr_background-image.asp)
+
+### HTML
+* [Link](https://www.w3schools.com/html/html_links.asp)
+* [Image](https://www.w3schools.com/html/html_images.asp)
+* [Div](https://www.w3schools.com/html/html_blocks.asp)
+* [Headings](https://www.w3schools.com/html/html_headings.asp)
+* [Text](https://www.w3schools.com/html/html_paragraphs.asp)
+* [Forms](https://www.w3schools.com/html/html_forms.asp)
+* [Class VS Id](https://css-tricks.com/the-difference-between-id-and-class/)
+
+### How to
+* [How to add Google Font to your project](https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/)
+* [How to add a Youtube clip](https://www.bitdegree.org/learn/how-to-embed-a-youtube-video)
+* [How to embedd a video](https://www.freecodecamp.org/news/video-audio-in-html-a-short-guide-69f721878b47/)
+* [How to make your page responsive](https://dzone.com/articles/using-csshtml-make-responsive)
+
