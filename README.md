@@ -27,10 +27,16 @@ So now it's time for you to start programming! You decide yourself on how much y
 You can do everything (more or less) in CSS and HTML. I've created some list for you to look at if you find it hard to know where to begin.
 
 ### The requirements
-* [Change h1 text](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
-* [Change background color](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
+* Change the movie to something else you enjoy. It means that the text and images from the template must be changed.
+* [Change colors](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
 * [Change font](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
-* [Add image](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+* [Add another image](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+* [Add a link](https://www.w3schools.com/html/html_links.asp)
+
+### Stretch goals
+* [Create a footer on your page](https://www.w3schools.com/tags/tag_footer.asp)
+* [Add a movie trailer](https://www.w3schools.com/html/html_youtube.asp)
+* Add related movies
 
 ### CSS
 * [Change font color](https://www.w3schools.com/csSref/pr_text_color.asp)
