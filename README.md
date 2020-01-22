@@ -18,25 +18,19 @@ This is an assignment for the course "digital techniques and production". You ar
 ## Requirements
 So now it's time for you to start programming! You decide yourself on how much you want to change. We don't have this assignment to make you programmers - it's for you to understand what programming is. But we need to have some requirements. Here they are.
 
-* Change the text inside `<h1></h1>` to a fitting title for your page.
-* Change the background color on your page.
-* Change the font on your page.
-* Insert at least one image of your own choosing.
-
-## Help
-You can do everything (more or less) in CSS and HTML. I've created some list for you to look at if you find it hard to know where to begin.
-
-### The requirements
 * Change the movie to something else you enjoy. It means that the text and images from the template must be changed.
-* [Change colors](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
-* [Change font](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
-* [Add another image](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
-* [Add a link](https://www.w3schools.com/html/html_links.asp)
+* [Change the colors of your page](https://developer.mozilla.org/en-US/docs/Web/CSS/background-color)
+* [Change the font on your page.](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+* [Insert at least one image of your own choosing.](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+* [Add a link.](https://www.w3schools.com/html/html_links.asp)
 
 ### Stretch goals
 * [Create a footer on your page](https://www.w3schools.com/tags/tag_footer.asp)
 * [Add a movie trailer](https://www.w3schools.com/html/html_youtube.asp)
 * Add related movies
+
+## Help
+You can do everything (more or less) in CSS and HTML. I've created some list for you to look at if you find it hard to know where to begin.
 
 ### CSS
 * [Change font color](https://www.w3schools.com/csSref/pr_text_color.asp)
