@@ -4,16 +4,22 @@ This is an assignment for the course "digital techniques and production". You ar
 <img src="https://media.giphy.com/media/13XW2MJE0XCoM0/giphy.gif" width="850" height="auto" />
 
 ## Setting up the project
-1. Download this repository as a zip-file to your computer.
-2. Save the folder somewhere where you easily can find it again. For example `/documents/sites`.
+1. One of you downloads this repository as a zip-file to your computer.
+2. Save the folder somewhere where you easily can find it again. For example `/documents/sites` or on the desktop.
 3. If you double click the `index.html` file you will open the page in your default browser. You can now see how the page looks like.
-4. Download the tool [Atom](https://atom.io/) and install it as an application on your computer.
-5. Open the application Atom. 
-6. In Atom, go under "file" > "add project folder" and select your folder that you have downloaded from Github.
-7. To check if all works: click on `index.html` in Atom to open the file in Atom.
+4. Download the tool [VS Code](https://github.com/ericaglimsholt/assignment-style-website) and install it as an application on your computer. Make sure to download the right version depending if you have Mac or PC.
+5. Open the application VS Code. 
+6. In VS Code, go under "file" > "open project" and select your folder that you have downloaded from Github.
+7. To check if all works: click on `index.html` in VS Code to open the file in VS Code.
 8. Change "Your title" in the `<h1>` element to something else (it can be whatever you want).
 9. Save the file.
 10. In your browser - update the page. You should now see your change.
+
+## Working remote together
+1. One of you follows the steps above.
+2. The other person downloads VS Code as well.
+3. The person who has the project locally: in VS Code press button "live share" and share the link to the other person. If needed - login with you Github account.
+4. You can now code together on the project.
 
 ## Requirements
 So now it's time for you to start programming! You decide yourself on how much you want to change. We don't have this assignment to make you programmers - it's for you to understand what programming is. But we need to have some requirements. Here they are.
