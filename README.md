@@ -43,8 +43,8 @@ So now it's time for you to start programming! You decide yourself on how much y
 You can do everything (more or less) in CSS and HTML. I've created some list for you to look at if you find it hard to know where to begin.
 
 ## Lecture notes
-[2020-01-12 - first lecture]()
-[2020-01-12 - second lecture]()
+* [2020-01-12 - first lecture]()
+* [2020-01-12 - second lecture]()
 
 ### CSS
 * [Text color](https://www.w3schools.com/csSref/pr_text_color.asp)
