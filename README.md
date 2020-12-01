@@ -42,9 +42,8 @@ So now it's time for you to start programming! You decide yourself on how much y
 ## Help
 You can do everything (more or less) in CSS and HTML. I've created some list for you to look at if you find it hard to know where to begin.
 
-## Lecture notes
-* [2020-01-12 - first lecture]()
-* [2020-01-12 - second lecture]()
+## Save your work
+Create a new "repository" in Github. Upload the files that you have been working on. Make sure that your friends has access to it.
 
 ### CSS
 * [Text color](https://www.w3schools.com/csSref/pr_text_color.asp)
