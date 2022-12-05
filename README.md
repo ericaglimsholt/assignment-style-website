@@ -22,7 +22,7 @@ This is an assignment for the course "digital techniques and production". You ar
 7. Change "Your title" in the `<h1>` element to something else (it can be whatever you want).
 8. Save the file.
 9. In your browser - update the page. You should now see your change.
-10. In VS Code press button "live share" and share the link to the other person. If needed - login with you Github account.
+10. (Optional) In VS Code press button "live share" and share the link to the other person. If needed - login with you Github account.
 4. You can now code together on the project.
 
 ## Requirements
